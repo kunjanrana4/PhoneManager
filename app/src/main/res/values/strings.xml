@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneManager</string>
+    <string name="phone_details">Phone Details:</string>
+</resources>
